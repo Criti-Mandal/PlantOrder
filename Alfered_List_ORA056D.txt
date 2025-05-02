@@ -1,0 +1,4 @@
+Order details:
+	Name: Alfered List (0412345678)
+	Item: 'Blood Orange' Tree (ORA056D)
+	Pot size (inch): 10
